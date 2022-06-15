@@ -50,8 +50,8 @@ main h2 {
     color: white;
 }
 .my-style{
-    color: red;
-    background-color: greenyellow;
+    color: greenyellow;
+    background-color: violet;
     padding: 3px;
-    font-size: 20px;
+    font-size: 10px;
 }
